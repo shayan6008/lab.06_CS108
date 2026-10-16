@@ -29,5 +29,6 @@ else{
   
     cout <<"NOt an armstrong .";
 }
+return 0 ; 
 }
  
