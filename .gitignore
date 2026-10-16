@@ -1,0 +1,15 @@
+echo "# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.idea/
+
+# Python-generated files
+__pycache__/
+*.pyc
+.venv/
+venv/" > .gitignore
